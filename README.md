@@ -1,7 +1,6 @@
 <H2>Βήματα για την χρήση του αισθητήρα:</H2>
 
 
-
 Οδηγός: <a href="https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/">
 https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/
 </a>

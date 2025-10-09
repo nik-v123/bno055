@@ -5,7 +5,6 @@
 Οδηγός: <a href="https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/">
 https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/
 </a>
-
 <br><br>
 1) Εγκατάσταση πακέτων κλπ με βάση τον οδηγό:
 <br>

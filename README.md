@@ -6,7 +6,7 @@
 https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/
 </a>
 
-<br><br><br>
+<br><br>
 1) Εγκατάσταση πακέτων κλπ με βάση τον οδηγό:
 <br>
 <a href="https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi">

@@ -1,7 +1,7 @@
 <H2>Βήματα για την χρήση του αισθητήρα:</H2>
 
 
-<H3>
+
 Οδηγός: <a href="https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/">
 https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/
 </a>
@@ -49,7 +49,7 @@ https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/i2c-clock-stretchi
 
 <br><br>
 7) Δοκιμή του προγράμματος που υπάρχει στο github (εδώ δηλαδή)
-</H3>
+
 
 
 <H2>Ο αισθητήρας</H2>

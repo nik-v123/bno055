@@ -21,6 +21,8 @@ python3 -m pip --version
 
 python -m ensurepip --upgrade
 
+(η τελευταία εντολή μάλλον δεν χρειάζεται)
+
 <br><br>
 4) Πλήρης εγκατάσταση python3:
 

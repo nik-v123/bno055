@@ -19,6 +19,8 @@ python3 -m pip install --upgrade pip
 
 python3 -m pip --version
 
+python -m ensurepip --upgrade
+
 <br><br>
 4) Εγκατάσταση της βιβλιοθήκης BNO055 με την εντολή:
 

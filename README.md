@@ -36,6 +36,12 @@ sudo apt install python3-full
 pip install adafruit-circuitpython-bno055
 (και όχι με την εντολή: sudo pip3 install adafruit-circuitpython-bno055)
 
+6) I2C Clock Stretching
+
+<a href="https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/i2c-clock-stretching">
+https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/i2c-clock-stretching
+</a>
+
 <br><br>
-6) Δοκιμή του προγράμματος που υπάρχει στο github (εδώ δηλαδή)
+7) Δοκιμή του προγράμματος που υπάρχει στο github (εδώ δηλαδή)
 </H3>

@@ -8,12 +8,14 @@ https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuit
 
 <br><br>
 2) Ενεργοποίηση του περιβάλλοντος με την εντολή:
+<br>
 <b>
 source env/bin/activate
 </b>
 
 <br><br>
 3) Εγκατάσταση του pip3 στο περιβάλλον με τις εντολές:
+<br>
 <b>
 python3 -m pip install --upgrade pip
 python3 -m pip --version
@@ -21,6 +23,7 @@ python3 -m pip --version
 
 <br><br>
 4) Εγκατάσταση της βιβλιοθήκης BNO055 με την εντολή:
+<br>
 <b>
 sudo pip3 install adafruit-circuitpython-bno055
 </b>

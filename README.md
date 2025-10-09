@@ -22,10 +22,15 @@ python3 -m pip --version
 python -m ensurepip --upgrade
 
 <br><br>
-4) Εγκατάσταση της βιβλιοθήκης BNO055 με την εντολή:
+4) Πλήρης εγκατάσταση python3:
+
+sudo apt install python3-full
+
+<br><br>
+5) Εγκατάσταση της βιβλιοθήκης BNO055 με την εντολή:
 
 sudo pip3 install adafruit-circuitpython-bno055
 
 <br><br>
-5) Δοκιμή του προγράμματος που υπάρχει στο github (εδώ δηλαδή)
+6) Δοκιμή του προγράμματος που υπάρχει στο github (εδώ δηλαδή)
 </H3>

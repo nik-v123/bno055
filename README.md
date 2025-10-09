@@ -13,11 +13,18 @@ source env/bin/activate
 </b>
 
 <br><br>
-3) Εγκατάσταση της βιβλιοθήκης BNO055 με την εντολή:
+3) Εγκατάσταση του pip3 στο περιβάλλον με τις εντολές:
+<b>
+python3 -m pip install --upgrade pip
+python3 -m pip --version
+</b>
+
+<br><br>
+4) Εγκατάσταση της βιβλιοθήκης BNO055 με την εντολή:
 <b>
 sudo pip3 install adafruit-circuitpython-bno055
 </b>
 
 <br><br>
-4) Δοκιμή του προγράμματος που υπάρχει στο github (εδώ δηλαδή)
+5) Δοκιμή του προγράμματος που υπάρχει στο github (εδώ δηλαδή)
 </H3>

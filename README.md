@@ -37,7 +37,7 @@ pip install adafruit-circuitpython-bno055
 (και όχι με την εντολή: sudo pip3 install adafruit-circuitpython-bno055)
 
 6) I2C Clock Stretching
-
+<br>
 <a href="https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/i2c-clock-stretching">
 https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/i2c-clock-stretching
 </a>

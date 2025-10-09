@@ -1,5 +1,6 @@
 <H2>Βήματα για την χρήση του αισθητήρα:</H2>
 
+<br><br><br>
 <H3>
 1) Εγκατάσταση πακέτων κλπ με βάση τον οδηγό:
 <a href="https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi">

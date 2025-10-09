@@ -61,7 +61,7 @@ https://grobotronics.com/fermion-bno055-intelligent-9-axis-sensor.html
 Περισσότερες πληροφορίες εδώ:
 https://wiki.dfrobot.com/BNO055_Intelligent_9_Axis_Sensor_Module_SKU_SEN0374
 
-https://www.adafruit.com/product/2472
+Και εδώ: https://www.adafruit.com/product/2472
 
 
 <H2>Χρήση</H2>

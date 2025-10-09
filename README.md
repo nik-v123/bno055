@@ -75,7 +75,7 @@ https://wiki.dfrobot.com/BNO055_Intelligent_9_Axis_Sensor_Module_SKU_SEN0374
 
 Μαγνητική απόκλιση στην Πολυτεχνική (περίπου): 5⁰ 19’ =5,31⁰
 
-https://www.magnetic-declination.com/Greece/Athens/955650.html#google_vignette
+Σχετική ίστοσελίδα: https://www.magnetic-declination.com/Greece/Athens/955650.html#google_vignette
 
 Το pitch θα είναι η γωνία σε σχέση με το οριζόντιο επίπεδο, δηλαδή το altitude.
 

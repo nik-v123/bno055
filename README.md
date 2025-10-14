@@ -50,7 +50,7 @@ https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/i2c-clock-stretchi
 <br><br>
 7) Δοκιμή του προγράμματος που υπάρχει στο github (εδώ δηλαδή)
 
-Μας ενδιαφέρει η γωνία Euler που έχει την παρακάτω μορφή<br>
+Μας ενδιαφέρει η γωνία Euler που έχει την παρακάτω μορφή:<br>
 (heading, roll, pitch)
 
 <H2>Ο αισθητήρας</H2>
